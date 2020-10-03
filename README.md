@@ -2,7 +2,10 @@ This is the most basic bot code you will find.
 It just puts the bot online.
 
 
-All you need to do is put your bots token in Bot.js and run the bot. :)
+All you need to do is:
+1. Unzip node-modules, 
+2. Put your bots token in Bot.js,
+3. Run the bot. :)
 
 
 
