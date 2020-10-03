@@ -1,6 +1,11 @@
 This is the most basic bot code you will find.
 It just puts the bot online.
 
+
+All you need to do is put your bots token in Bot.js and run the bot. :)
+
+
+
 Help:
 
 node_modules        -  The discord.js stuff. Created by running: npm install discord.js
